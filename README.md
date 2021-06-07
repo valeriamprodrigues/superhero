@@ -10,4 +10,8 @@ Funcionalidades Básicas:
 Listagem dos heróis;
 Filtro por nome ou gênero;
 Ao clicar no herói, ir para uma outra tela com informações detalhadas do mesmo.
-Atenção: Para gerar novos arquivos do mobx, é necessário executar os seguintes comandos: flutter packages pub run build_runner clean flutter packages pub run build_runner build
+
+Atenção: 
+Para gerar novos arquivos do mobx, é necessário executar os seguintes comandos: 
+flutter packages pub run build_runner clean 
+flutter packages pub run build_runner build
