@@ -1,4 +1,4 @@
-# superhero
+# PROJETO FLUTTER - superhero
 Projeto mobile desenvolvido em Flutter com Mobx para o gerenciamento de estado.
 
 Foi utilizado API para retornar as informações dos super heróis:
